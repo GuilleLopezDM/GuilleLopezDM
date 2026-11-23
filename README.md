@@ -26,7 +26,7 @@ Since 2024 I've been building custom **ERP** systems that are still in productio
 - 🎓 Mechatronics Engineering at UCSA (in progress) · Electromechanical Technician (CTN)
 - 🌎 Spanish (native) · English (advanced)
 
-**Featured projects:** [MediCerca](https://github.com/GuilleLopezDM/medicerca) (Flask, Docker, CI) · [API Monitor](https://github.com/SadCloud03/APIs-automated-monitor) (FastAPI, React) · [video-dl](https://github.com/GuilleLopezDM/UDEMY_downloader) (FastAPI, 199 tests) · [PassPort Auth](https://github.com/GuilleLopezDM/C10_The_Huddle) (JWT, RBAC, CSRF) · [Olist ML](https://github.com/GuilleLopezDM/C3_The_hatch) (scikit-learn)
+**Featured projects:** [MediCerca](https://github.com/GuilleLopezDM/medicerca) (Flask, Docker, CI) · [API Monitor](https://github.com/SadCloud03/APIs-automated-monitor) (FastAPI, React) · [video-dl](https://github.com/GuilleLopezDM/UDEMY_downloader) (FastAPI, 199 tests) · [PassPort Auth](https://github.com/GuilleLopezDM/C10_The_Huddle) (JWT, RBAC, CSRF) · [Microservices e-commerce](https://github.com/GuilleLopezDM/C7_The_Huddle) (Flask, PostgreSQL, Docker) · [Olist ML](https://github.com/GuilleLopezDM/C3_The_hatch) (scikit-learn)
 
 </details>
 
@@ -41,11 +41,12 @@ Since 2024 I've been building custom **ERP** systems that are still in productio
 | [**video-dl**](https://github.com/GuilleLopezDM/UDEMY_downloader) | Extensión de navegador + servidor local para descargar cursos y videos, con 199 tests | FastAPI · yt-dlp · JS (MV3) · pytest · CI |
 | [**PassPort Auth**](https://github.com/GuilleLopezDM/C10_The_Huddle) | API de autenticación con cookies y JWT, bcrypt, RBAC, CSRF y rate limiting, cubierta con tests | Flask · PyJWT · pytest · CI |
 | [**Olist ML**](https://github.com/GuilleLopezDM/C3_The_hatch) | Predicción de entregas, segmentación de productos y análisis de sentimiento | scikit-learn · pandas |
+| [**E-commerce en microservicios**](https://github.com/GuilleLopezDM/C7_The_Huddle) | 5 servicios con base de datos propia, JWT, circuit breaker y compensación de pagos | Flask · PostgreSQL · Docker Compose |
 | [**Logging distribuido**](https://github.com/GuilleLopezDM/C5_The_Huddle) | Servidor central de logs con autenticación por token, validación y consultas con filtros | Flask · SQLite |
 
 ### 📊 Ciencia de datos
 
-- [EDA: viviendas y energía](https://github.com/GuilleLopezDM/C1_The_Hatch) · [Regresión y clasificación](https://github.com/GuilleLopezDM/C2_The_hatch) · [Análisis de logs](https://github.com/GuilleLopezDM/C6_The_Huddle)
+- [Scraping + API: Books to Scrape](https://github.com/GuilleLopezDM/C4_The_Huddle) (BeautifulSoup, Open Library, SQLite) · [EDA: viviendas y energía](https://github.com/GuilleLopezDM/C1_The_Hatch) · [Regresión y clasificación](https://github.com/GuilleLopezDM/C2_The_hatch) · [Análisis de logs](https://github.com/GuilleLopezDM/C6_The_Huddle)
 
 ---
 
@@ -56,6 +57,7 @@ Since 2024 I've been building custom **ERP** systems that are still in productio
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
