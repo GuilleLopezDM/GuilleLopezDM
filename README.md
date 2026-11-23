@@ -24,13 +24,6 @@ Desde 2024 desarrollo sistemas de gestión empresarial (**ERP**) a medida que ho
 | [**Olist ML**](https://github.com/GuilleLopezDM/C3_The_hatch) | Predicción de entregas, segmentación de productos y análisis de sentimiento | scikit-learn · pandas |
 | [**Logging distribuido**](https://github.com/GuilleLopezDM/C5_The_Huddle) | Servidor central de logs con autenticación por token, validación y consultas con filtros | Flask · SQLite |
 
-### 🧠 Algoritmos y fundamentos
-
-- [El gato y el ratón](https://github.com/GuilleLopezDM/challenge_1): IA con **minimax y poda alfa-beta** (Python)
-- [Laberintos](https://github.com/GuilleLopezDM/challenge_2): generación con **DFS** y resolución con **BFS** (C++)
-- [Chat TCP](https://github.com/GuilleLopezDM/C2_The_Huddle): servidor multi-cliente con `select()` (sockets)
-- [Martillo Reparador](https://github.com/GuilleLopezDM/mod_martillo): mod de Minecraft en Java con CI de compilación
-
 ### 📊 Ciencia de datos
 
 - [EDA: viviendas y energía](https://github.com/GuilleLopezDM/C1_The_Hatch) · [Regresión y clasificación](https://github.com/GuilleLopezDM/C2_The_hatch) · [Análisis de logs](https://github.com/GuilleLopezDM/C6_The_Huddle)
