@@ -11,16 +11,35 @@ Desde 2024 desarrollo sistemas de gestión empresarial (**ERP**) a medida que ho
 - 🎓 Ingeniería Mecatrónica en la UCSA (en curso) · Técnico en Electromecánica (CTN)
 - 🌎 Español nativo · Inglés avanzado
 
+<details>
+<summary>🇬🇧 <b>English version</b></summary>
+
+### Hi, I'm Guillermo López 👋
+
+**Python / Backend Developer** · Founder of **FindTek** · Mechatronics Engineering student · 📍 San Lorenzo, Paraguay
+
+Since 2024 I've been building custom **ERP** systems that are still in production for real clients. I focus on backend, automation and data.
+
+- ⚙️ Custom **ERP systems** for FindTek clients, in production
+- ⏱️ Automated a client's treasury reports in Python: **from 2 hours to 20 minutes (−83%)**
+- 🧑‍💻 **Team Lead** of [MediCerca](https://github.com/GuilleLopezDM/medicerca) at Hackathon 2025
+- 🎓 Mechatronics Engineering at UCSA (in progress) · Electromechanical Technician (CTN)
+- 🌎 Spanish (native) · English (advanced)
+
+**Featured projects:** [MediCerca](https://github.com/GuilleLopezDM/medicerca) (Flask, Docker, CI) · [API Monitor](https://github.com/SadCloud03/APIs-automated-monitor) (FastAPI, React) · [video-dl](https://github.com/GuilleLopezDM/UDEMY_downloader) (FastAPI, 199 tests) · [PassPort Auth](https://github.com/GuilleLopezDM/C10_The_Huddle) (JWT, RBAC, CSRF) · [Olist ML](https://github.com/GuilleLopezDM/C3_The_hatch) (scikit-learn)
+
+</details>
+
 ---
 
 ## 🚀 Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**MediCerca**](https://github.com/GuilleLopezDM/medicerca) | Directorio médico con búsqueda por especialidad, mapa, reseñas y roles. Lideré el equipo | Flask · SQLite · Tailwind · Leaflet · pytest |
+| [**MediCerca**](https://github.com/GuilleLopezDM/medicerca) | Directorio médico con búsqueda por especialidad, mapa, reseñas y roles. Lideré el equipo | Flask · SQLite · Leaflet · Docker · CI |
 | [**Monitor de APIs**](https://github.com/SadCloud03/APIs-automated-monitor) | Monitoreo de disponibilidad de APIs con registro histórico, alertas por Telegram y dashboard | FastAPI · SQLite · React |
-| [**video-dl**](https://github.com/GuilleLopezDM/UDEMY_downloader) | Extensión de navegador + servidor local para descargar cursos y videos, con suite de tests | FastAPI · yt-dlp · JS (MV3) · pytest |
-| [**PassPort Auth**](https://github.com/GuilleLopezDM/C10_The_Huddle) | API de autenticación con cookies y JWT, bcrypt, RBAC, CSRF y rate limiting | Flask · PyJWT · bcrypt |
+| [**video-dl**](https://github.com/GuilleLopezDM/UDEMY_downloader) | Extensión de navegador + servidor local para descargar cursos y videos, con 199 tests | FastAPI · yt-dlp · JS (MV3) · pytest · CI |
+| [**PassPort Auth**](https://github.com/GuilleLopezDM/C10_The_Huddle) | API de autenticación con cookies y JWT, bcrypt, RBAC, CSRF y rate limiting, cubierta con tests | Flask · PyJWT · pytest · CI |
 | [**Olist ML**](https://github.com/GuilleLopezDM/C3_The_hatch) | Predicción de entregas, segmentación de productos y análisis de sentimiento | scikit-learn · pandas |
 | [**Logging distribuido**](https://github.com/GuilleLopezDM/C5_The_Huddle) | Servidor central de logs con autenticación por token, validación y consultas con filtros | Flask · SQLite |
 
