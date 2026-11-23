@@ -1,11 +1,15 @@
 # Hola, soy Guillermo López 👋
 
-**Desarrollador Python** enfocado en backend y ciencia de datos. Me gusta construir herramientas que resuelven problemas reales: APIs, automatizaciones, análisis de datos y modelos de machine learning.
+**Desarrollador Python / Backend** · Fundador de **FindTek** · Estudiante de Ingeniería Mecatrónica
+📍 San Lorenzo, Paraguay
 
-- 🔧 Backend con **Flask** y **FastAPI**, bases de datos **SQLite / SQLAlchemy**
-- 📊 Análisis de datos y ML con **pandas** y **scikit-learn**
-- 🔐 Autenticación y seguridad web: JWT, sesiones, RBAC, CSRF y XSS
-- 🤝 Trabajo en equipo con Git Flow, ramas por feature y pull requests
+Desde 2024 desarrollo sistemas de gestión empresarial (**ERP**) a medida que hoy siguen en uso por clientes reales. Me enfoco en backend, automatización y datos: construyo herramientas que ahorran tiempo y resuelven problemas concretos.
+
+- ⚙️ **ERP a medida** para clientes de FindTek, en producción
+- ⏱️ Automaticé en Python los reportes de tesorería de un cliente: **de 2 horas a 20 minutos (−83 %)**
+- 🧑‍💻 **Team Lead** de [MediCerca](https://github.com/GuilleLopezDM/medicerca) en la Hackathon 2025
+- 🎓 Ingeniería Mecatrónica en la UCSA (en curso) · Técnico en Electromecánica (CTN)
+- 🌎 Español nativo · Inglés avanzado
 
 ---
 
@@ -13,19 +17,19 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**MediCerca**](https://github.com/GuilleLopezDM/medicerca) | Directorio médico con mapa interactivo, reseñas y roles (proyecto de equipo, hackathon) | Flask · SQLAlchemy · Tailwind · Leaflet |
+| [**MediCerca**](https://github.com/GuilleLopezDM/medicerca) | Directorio médico con búsqueda por especialidad, mapa, reseñas y roles. Lideré el equipo | Flask · SQLite · Tailwind · Leaflet · pytest |
+| [**Monitor de APIs**](https://github.com/SadCloud03/APIs-automated-monitor) | Monitoreo de disponibilidad de APIs con registro histórico, alertas por Telegram y dashboard | FastAPI · SQLite · React |
 | [**video-dl**](https://github.com/GuilleLopezDM/UDEMY_downloader) | Extensión de navegador + servidor local para descargar cursos y videos, con suite de tests | FastAPI · yt-dlp · JS (MV3) · pytest |
 | [**PassPort Auth**](https://github.com/GuilleLopezDM/C10_The_Huddle) | API de autenticación con cookies y JWT, bcrypt, RBAC, CSRF y rate limiting | Flask · PyJWT · bcrypt |
 | [**Olist ML**](https://github.com/GuilleLopezDM/C3_The_hatch) | Predicción de entregas, segmentación de productos y análisis de sentimiento | scikit-learn · pandas |
 | [**Logging distribuido**](https://github.com/GuilleLopezDM/C5_The_Huddle) | Servidor central de logs con autenticación por token, validación y consultas con filtros | Flask · SQLite |
-| [**Martillo Reparador**](https://github.com/GuilleLopezDM/mod_martillo) | Mod de Minecraft (Fabric) con mecánica de reparación y CI de compilación | Java · Gradle · GitHub Actions |
 
 ### 🧠 Algoritmos y fundamentos
 
 - [El gato y el ratón](https://github.com/GuilleLopezDM/challenge_1): IA con **minimax y poda alfa-beta** (Python)
 - [Laberintos](https://github.com/GuilleLopezDM/challenge_2): generación con **DFS** y resolución con **BFS** (C++)
 - [Chat TCP](https://github.com/GuilleLopezDM/C2_The_Huddle): servidor multi-cliente con `select()` (sockets)
-- [Combate por turnos](https://github.com/GuilleLopezDM/C1_The_Huddle): juego de consola con POO y arquitectura en capas
+- [Martillo Reparador](https://github.com/GuilleLopezDM/mod_martillo): mod de Minecraft en Java con CI de compilación
 
 ### 📊 Ciencia de datos
 
@@ -35,25 +39,32 @@
 
 ## 🛠️ Tecnologías
 
+**Backend y datos**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**Herramientas**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**También trabajé con**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
 ## 📫 Contacto
 
-<!-- Completá tus enlaces -->
-- LinkedIn: [tu-perfil](https://www.linkedin.com/in/tu-perfil)
-- Email: tu-email@ejemplo.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guillermolopezdm-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermolopezdm)
+[![Email](https://img.shields.io/badge/Email-guillelopezdm%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guillelopezdm@gmail.com)
